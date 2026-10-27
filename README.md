@@ -97,7 +97,6 @@ I enjoy turning data into actionable insights through **Power BI, DAX, SQL and P
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hamzabny&theme=algolia&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Hamzabny&theme=algolia&hide_border=true" alt="GitHub streak" /></p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzabny&theme=react" alt="GitHub activity graph" /></p>
 
 
 ### ✍️ Developer Quote
