@@ -117,4 +117,4 @@ I enjoy turning data into actionable insights through **Power BI, DAX, SQL and P
 
 ---
 
-**Template inspiration / original visual design:** [Aziz Ben Ismail](https://github.com/AzizBenIsmail). **Personalized content:** [Hamza Ben Younes](https://github.com/Hamzabny).
+**Template inspiration / original visual design:** [Hamza Ben Younes](https://github.com/Hamzabny).
