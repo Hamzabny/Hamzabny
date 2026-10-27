@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Hamza Ben Younes</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" /></h1>
 <p align="center">
-  <a href="https://github.com/Hamzabny"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C9FF&size=25&center=true&vCenter=true&width=650&height=90&lines=Hey!%20I%20am%20Hamza%20Ben%20Younes!;Business%20Intelligence%20%26%20Data%20Analytics;Python%20%7C%20SQL%20%7C%20Power%20BI;Junior%20Data Analyst;Always%20learning%20and%20building!" alt="Hamza Ben Younes animated intro" /></a>
+  <a href="https://github.com/Hamzabny"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C9FF&size=25&center=true&vCenter=true&width=650&height=90&lines=Hey!%20I%20am%20Hamza%20Ben%20Younes!;Business%20Intelligence%20%26%20Data%20Analytics;Python%20%7C%20SQL%20%7C%20Power%20BI;Junior%20DataAnalyst;Always%20learning%20and%20building!" alt="Hamza Ben Younes animated intro" /></a>
 </p>
 
 <p align="center">
